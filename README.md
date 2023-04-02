@@ -2,6 +2,8 @@
 
 ## Notes
 
+Following https://developer.hashicorp.com/terraform/tutorials/docker-get-started/install-cli on Codespaces
+
 From the Ubuntu/Debian option at https://developer.hashicorp.com/terraform/downloads, install terraform
 
 ```bash
@@ -11,3 +13,5 @@ echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://
 
 sudo apt update && sudo apt install terraform
 ```
+
+Install the Hashicorp Terraform VS Code Extension.
